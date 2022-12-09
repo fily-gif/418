@@ -1,3 +1,5 @@
+# honestly I have no idea if this works since I have no access to the terminal /shrug
+
 # setting up stuff
 import time
 import colorama
